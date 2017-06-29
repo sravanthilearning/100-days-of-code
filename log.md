@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 28, 2017
+
+**Today's Progress**: Learned some interesting approaches through solving problems on stacks.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/43b469766f1eef06b2657f0000d2e821dbdcd0bd)
+
 ### Day 3: June 27, 2017
 
 **Today's Progress**: Solved problems on Strings and brushed up concepts on Stacks.
