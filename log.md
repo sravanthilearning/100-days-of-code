@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 29, 2017
+
+**Today's Progress**: Solved few standard problems on backtracking and hashtables today.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/5b9f192e836851c32e55bf726e6c58ab81abc083)
+
 ### Day 4: June 28, 2017
 
 **Today's Progress**: Learned some interesting approaches through solving problems on stacks.
