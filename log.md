@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 30, 2017
+
+**Today's Progress**: Resumed Coding in Python after a longtime. Learnt about OOP techniques in Python and few interesting concepts like 'duck typing'.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/cdec97d2eca9cc4e5ef5f30da728db57158c2f21)
+
 ### Day 5: June 29, 2017
 
 **Today's Progress**: Solved few standard problems on backtracking and hashtables today.
