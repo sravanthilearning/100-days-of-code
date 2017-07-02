@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 7: July 1, 2017
+
+**Today's Progress**: Solved a handful of problems on Strings
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/94c5cd0b3b1213b2848545120cb87d364589818e)
+
 ### Day 6: June 30, 2017
 
 **Today's Progress**: Resumed Coding in Python after a longtime. Learnt about OOP techniques in Python and few interesting concepts like 'duck typing'.
