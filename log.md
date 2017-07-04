@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 3, 2017
+
+**Today's Progress**: Continued solving interview questions from Leetcode
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/73c9dc4360b6a01305450d5ff65f0eb3cd457b66)
+
 ### Day 8: July 2, 2017
 
 **Today's Progress**: Solved few interview questions on Linkedlists in Java and Python
