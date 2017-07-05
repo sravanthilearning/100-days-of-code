@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 10: July 4, 2017
+
+**Today's Progress**: Solved few more algorithmic problems from Leetcode
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/2b50c11e15028901a068dbe02a155d28391d2459)
+
 ### Day 9: July 3, 2017
 
 **Today's Progress**: Continued solving interview questions from Leetcode
