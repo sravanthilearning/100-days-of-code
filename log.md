@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 11: July 5, 2017
+
+**Today's Progress**: More problems on Hashtables and Strings from Leetcode. Also explored few interesting repos on Github.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/c04927378de0cc929f80942c2bce5d6f46aa8e14)
+
 ### Day 10: July 4, 2017
 
 **Today's Progress**: Solved few more algorithmic problems from Leetcode
