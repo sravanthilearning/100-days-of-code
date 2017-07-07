@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 12: July 6, 2017
+
+**Today's Progress**: Started with Math problems and Backtracking, continued solving few on string manipulation.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/04a87b155ff7a561e04f46efda1137da6f380d13)
+
 ### Day 11: July 5, 2017
 
 **Today's Progress**: More problems on Hashtables and Strings from Leetcode. Also explored few interesting repos on Github.
