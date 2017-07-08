@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 7, 2017
+
+**Today's Progress**: Few more on Bit manipulation and solved Codechef's monthly challenge.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/dfe6f8794b32163507d7dc7a40d2a7726a3b9c51)
+
 ### Day 12: July 6, 2017
 
 **Today's Progress**: Started with Math problems and Backtracking, continued solving few on string manipulation.
