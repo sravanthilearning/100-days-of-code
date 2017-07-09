@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 14: July 8, 2017
+
+**Today's Progress**: Took part in Leetcode's weekly challenge, also solved few problems on Hashtables.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/6b735d7ec4e2f54f815c571d32e43814138cd69c)
+
 ### Day 13: July 7, 2017
 
 **Today's Progress**: Few more on Bit manipulation and solved Codechef's monthly challenge.
