@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 15: July 9, 2017
+
+**Today's Progress**: Binary Trees.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/hackerrank/commit/2bfe5a04826f34a7d985a0294445cf74ce46665b)
+
 ### Day 14: July 8, 2017
 
 **Today's Progress**: Took part in Leetcode's weekly challenge, also solved few problems on Hashtables.
