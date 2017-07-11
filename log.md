@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 16: July 10, 2017
+
+**Today's Progress**: More on Trees and recursion.
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/leetcode/commit/719483f6a6f7150ced7f1924dbe6d1171a132dab)
+
 ### Day 15: July 9, 2017
 
 **Today's Progress**: Binary Trees.
