@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 17: July 11, 2017
+
+**Today's Progress**: Binary Search
+
+**Link to work**
+[Here](https://github.com/venkateshmantha/Leetcode/commit/f00ac372568e455398a04169d321d7afca655579)
+
 ### Day 16: July 10, 2017
 
 **Today's Progress**: More on Trees and recursion.
