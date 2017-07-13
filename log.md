@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: July 12, 2017
+
+**Today's Progress**: Took some time off problem solving and played around with some Api's. Also, built a useful weather notification
+message program in Python.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/0a54226316471202312595e7f2a9481fd20e1caf) and [Weather-notif](https://github.com/venkateshmantha/Weather-Notif)
+
 ### Day 17: July 11, 2017
 
 **Today's Progress**: Binary Search
