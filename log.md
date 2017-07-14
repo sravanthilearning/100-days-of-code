@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 19: July 13, 2017
+
+**Today's Progress**: More problems solved on Binary trees, bit manipulation and hashing.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/c439ad9a70b3d61a49f9b62de14080465dafa169)
+
 ### Day 18: July 12, 2017
 
 **Today's Progress**: Took some time off problem solving and played around with some Api's. Also, built a useful weather notification
