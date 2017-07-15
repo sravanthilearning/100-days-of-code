@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 20: July 14, 2017
+
+**Today's Progress**: Revisited Linkedlists and solved few more math problems.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/0ee6eed7c883c1091cc37bee0bf1d3f1d6420c3b)
+
 ### Day 19: July 13, 2017
 
 **Today's Progress**: More problems solved on Binary trees, bit manipulation and hashing.
