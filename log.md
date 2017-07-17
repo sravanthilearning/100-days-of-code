@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 22: July 16, 2017
+
+**Today's Progress**: Submitted the weather bot for review.
+
+**Link to work**
+[Weather-master](https://github.com/venkateshmantha/weather-master/commit/bfaf0c28506e4c398d4ccbff9aec5354ff9f2c22)
+
+### Day 21: July 15, 2017
+
+**Today's Progress**: Played around with api.ai's Python SDK in an attempt to build an assistant messenger bot.
+
 ### Day 20: July 14, 2017
 
 **Today's Progress**: Revisited Linkedlists and solved few more math problems.
