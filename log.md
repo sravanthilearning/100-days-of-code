@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 23: July 17, 2017
+
+**Today's Progress**: Back to problem solving with binary trees and arrays.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/8c5ae9f05a3953f4b548404ee6186de4291112ae)
+
 ### Day 22: July 16, 2017
 
 **Today's Progress**: Submitted the weather bot for review.
