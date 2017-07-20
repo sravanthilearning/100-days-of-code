@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 25: July 19, 2017
+
+**Today's Progress**: Few more problems on binary trees.
+
+**Link to work**
+[Geeks](https://github.com/venkateshmantha/Geeksforgeeks/commit/8ef080d8752b92eb708b94b3a35a899126742929)
+
+### Day 24: July 18, 2017
+
+**Today's Progress**: More problems on binary trees.
+
+**Link to work**
+[Geeks](https://github.com/venkateshmantha/Geeksforgeeks/commit/c858e27bf92faf389e3eb9fdd9372445c97c3032), [Leetcode](https://github.com/venkateshmantha/Leetcode/commit/8e1b98af74cd7d349cff0ee3089f6932f7ec3469)
+
 ### Day 23: July 17, 2017
 
 **Today's Progress**: Back to problem solving with binary trees and arrays.
