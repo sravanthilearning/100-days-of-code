@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 27: July 21, 2017
+
+**Today's Progress**: Solved interview problems on Linkedlists.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/49c65c2ddf43d2b1cb8e7fe540649f85c7db74cc) , [Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/033400cb52115ef0709021d693370cdff82ffbcc)
+
+### Day 26: July 20, 2017
+
+**Today's Progress**: Revisited stacks and queues.
+
+**Link to work**
+[Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/e83dbff28bd86c1e16e08c96e210dc2b0e491f6d)
+
 ### Day 25: July 19, 2017
 
 **Today's Progress**: Few more problems on binary trees.
