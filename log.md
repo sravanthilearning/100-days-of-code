@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 28: July 22, 2017
+
+**Today's Progress**: Linkedlists and Binary trees.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/fbaf3b5612cd5cd7eda6adfee1a5f999c3fab917)
+
 ### Day 27: July 21, 2017
 
 **Today's Progress**: Solved interview problems on Linkedlists.
