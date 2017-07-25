@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 30: July 24, 2017
+
+**Today's Progress**: Solved problems on hashtables.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/88fb24675b471178380b8da7c66541d1117e5d6e)
+
+### Day 29: July 23, 2017
+
+**Today's Progress**: Linkedlists, Hashing and some mind bending algorithms.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/9277649c531b72144aacfbc73427f991acde428d)
+
 ### Day 28: July 22, 2017
 
 **Today's Progress**: Linkedlists and Binary trees.
