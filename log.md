@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 31,32: July 25,26 2017
+### Days 31,32: July 25,26 2017
 
 **Today's Progress**: Deeper dive on hashtables.
 
