@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 31,32: July 25,26 2017
+
+**Today's Progress**: Deeper dive on hashtables.
+
+**Link to work**
+[Day 31](https://github.com/venkateshmantha/Leetcode/commit/a9a7613c919332aceac83a013bb63d532566ebfc), [Day 32](https://github.com/venkateshmantha/Leetcode/commit/d1fd6a35025d5122941d32fdccea4873af8be902)
+
 ### Day 30: July 24, 2017
 
 **Today's Progress**: Solved problems on hashtables.
