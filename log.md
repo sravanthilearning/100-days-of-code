@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Days 33,34: July 27,28 2017
+
+**Today's Progress**: Dynamic programming.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/245875da6610d50672a0c29fd7347cf002c12d75),[Spoj](https://github.com/venkateshmantha/Spoj/commit/2a5f2f7f71e75e53e1517d8d825f7735262d6b35)
+
 ### Days 31,32: July 25,26 2017
 
 **Today's Progress**: Deeper dive on hashtables.
