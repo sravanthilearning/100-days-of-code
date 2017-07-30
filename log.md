@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 35: July 29, 2017
+
+**Today's Progress**: Developed a basic CLI mp3 player in Python and solved few problems on Codechef.
+
+**Link to work**
+[MusiCLI](https://github.com/venkateshmantha/MusiCLI/commit/5cfa2630381fcf1e12393093fde7b84a2ccd6abd),[Codechef](https://github.com/venkateshmantha/Codechef/commit/abafa88832912bfb57884c2f385c1dbb036e3986)
+
 ### Days 33,34: July 27,28 2017
 
 **Today's Progress**: Dynamic programming.
