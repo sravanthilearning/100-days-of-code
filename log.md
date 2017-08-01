@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 36,37: July 30,31 2017
+
+**Today's Progress**: More problems on dynamic programming.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/3e0d5337663c6b9d4e058c9e94f16396dbd08c9e)
+
 ### Day 35: July 29, 2017
 
 **Today's Progress**: Developed a basic CLI mp3 player in Python and solved few problems on Codechef.
