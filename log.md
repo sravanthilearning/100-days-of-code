@@ -5,7 +5,7 @@
 **Today's Progress**: Backtracking and Strings.
 
 **Link to work**
-[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/1759621492f382fda7411b80a46421b195472753)
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/1759621492f382fda7411b80a46421b195472753),[Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/c33b8eb8c0370e4b1e5012b8e51a6bed8c94cfdd)
 
 ### Day 38: Aug 01, 2017
 
