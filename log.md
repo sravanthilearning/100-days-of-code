@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 39: Aug 02, 2017
+
+**Today's Progress**: Backtracking and Strings.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/1759621492f382fda7411b80a46421b195472753)
+
+### Day 38: Aug 01, 2017
+
+**Today's Progress**: Revisited Strings.
+
+**Link to work**
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/bc58625303c0684d645a599cfa312ed4fc17c219)
+
 ### Day 36,37: July 30,31 2017
 
 **Today's Progress**: More problems on dynamic programming.
