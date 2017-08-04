@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 40: Aug 03, 2017
+
+**Today's Progress**: Solved few problems from archived Hackerrank challenges.
+
+**Link to work**
+[Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/f873e217e87ef2e95e58db3098a03e557cb0bcf4)
+
 ### Day 39: Aug 02, 2017
 
 **Today's Progress**: Backtracking and Strings.
