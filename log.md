@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 43: Aug 06, 2017
+
+**Today's Progress**: GUI programming in Python.
+
+**Link to work**
+[MusiCLI](https://github.com/venkateshmantha/MusiCLI/commit/0f0275d21c6ed6dbfcc74ff5852edbc65c4cea19)
+
+### Day 42: Aug 05, 2017
+
+**Today's Progress**: Binary trees and arrays.
+
+**Link to work**
+[Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/6a827583a44ff14d0814add7081e90036ddd7f78)
+
+### Day 41: Aug 04, 2017
+
+**Today's Progress**: Continued solving challenges on Hackerrank.
+
+**Link to work**
+[Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/e1037bc921d4e67ee9253e6ae576f9c93d733c81)
+
 ### Day 40: Aug 03, 2017
 
 **Today's Progress**: Solved few problems from archived Hackerrank challenges.
