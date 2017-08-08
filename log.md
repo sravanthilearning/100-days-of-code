@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 44: Aug 07, 2017
+
+**Today's Progress**: More GUI's in Python with Tkinter and Mutagen.
+
+**Link to work**
+[MusiCLI](https://github.com/venkateshmantha/MusiCLI/commit/591edfa2eed61a8d5aa7c6055e552a5691d229da)
+
 ### Day 43: Aug 06, 2017
 
 **Today's Progress**: GUI programming in Python.
