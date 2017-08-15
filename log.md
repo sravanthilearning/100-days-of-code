@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 52: Aug 15, 2017
+
+**Today's Progress**: Arrays and binary trees.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/3900004d900a9e2e8326df7ba834105e26efd779)
+
+### Day 51: Aug 14, 2017
+
+**Today's Progress**: Game theory.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/9e5bf815dbdb7b635beca98979e9dac19c28dbaf)
+
+### Day 50: Aug 13, 2017
+
+**Today's Progress**: BST's and Arrays.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/9618fd66549c1270f208d0822ab1c3de0b444111)
+
+### Day 49: Aug 12, 2017
+
+**Today's Progress**: BST's.
+
+### Day 48: Aug 11, 2017
+
+**Today's Progress**: Reservoir sampling algorithms.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/03543a5bcaef991a08a6ebc22fdbb252c6308c1b)
+
+### Day 47: Aug 10, 2017
+
+**Today's Progress**: More Greedy algorithms.
+
+### Day 46: Aug 09, 2017
+
+**Today's Progress**: More problems on Greedy algorithms.
+
+### Day 45: Aug 08, 2017
+
+**Today's Progress**: Greedy algorithms.
+
 ### Day 44: Aug 07, 2017
 
 **Today's Progress**: More GUI's in Python with Tkinter and Mutagen.
