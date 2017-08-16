@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 53: Aug 15, 2017
+
+**Today's Progress**: Divide and conquer algorithms.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/f22dd380d3e0073bd6a41d0a1d0ab92cb3621057)
+
 ### Day 52: Aug 15, 2017
 
 **Today's Progress**: Arrays and binary trees.
