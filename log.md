@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 54: Aug 16, 2017
+
+**Today's Progress**: More Divide and conquer algorithms.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/2e70f4975a70b79e9522b36aeaf9af4f101ce6b7)
+
 ### Day 53: Aug 15, 2017
 
 **Today's Progress**: Divide and conquer algorithms.
