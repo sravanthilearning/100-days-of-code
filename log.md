@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 55: Aug 17, 2017
+
+**Today's Progress**: Heaps and Priority queues.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/c0f79577ecc4ed871053cc2dce9eeaa8f525839e)
+
 ### Day 54: Aug 16, 2017
 
 **Today's Progress**: More Divide and conquer algorithms.
