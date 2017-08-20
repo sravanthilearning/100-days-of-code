@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 57: Aug 19, 2017
+
+**Today's Progress**: Depth first and Stacks.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/eaad0a00fd8766d6c78184490a8b64baafc01d0d)
+
+### Day 56: Aug 18, 2017
+
+**Today's Progress**: BFS and DFS.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/dd757b70ceaa43542d3a262ff20e97b978d30f84)
+
 ### Day 55: Aug 17, 2017
 
 **Today's Progress**: Heaps and Priority queues.
