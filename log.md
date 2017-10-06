@@ -1,5 +1,231 @@
 # 100 Days Of Code - Log
 
+### Day 100: Oct 5, 2017
+
+**Today's Progress**: Graph theory
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/15608d311d0529025eedda96ca6f0e4599474fdd)
+
+### Day 99: Oct 4, 2017
+
+**Today's Progress**: Number theory
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/fd6367f953597342febe18f8020aa07e04de1f2a)
+
+### Day 98: Oct 3, 2017
+
+**Today's Progress**: Backtrack & Recursion
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/006dfd718ab3265372d81a7fe3ead91b0ad479ae)
+
+### Day 96,97: Oct 1,2, 2017
+
+**Today's Progress**: Dynamic Programming
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/9650afc3cb019e2ff99c36c24ddc662492f5cba0)
+
+### Day 95: Sep 30, 2017
+
+**Today's Progress**: Binary trees
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/d72dc88cb018d89fa0b7b0aa2000c25f0a72a91a)
+
+### Day 94: Sep 29, 2017
+
+**Today's Progress**: Math operations
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/d72dc88cb018d89fa0b7b0aa2000c25f0a72a91a)
+
+### Day 92,93: Sep 26,27, 2017
+
+**Today's Progress**: MAtrices and 2D arrays
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/6ffa433b795b7075fd63e56480ba38c145e6119d)
+
+### Day 91: Sep 25, 2017
+
+**Today's Progress**: Greedy, Divide & Conquer paradigms
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/db8a07e29f5a8f39389f45ce259fb389d60e3b44)
+
+### Day 90: Sep 24, 2017
+
+**Today's Progress**: Few hard problems on arrays
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/e64d0469605da66021612b1cd5755607aa104f3d)
+
+### Day 89: Sep 23, 2017
+
+**Today's Progress**: String palindromes and permutations
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/127beb142ddcb113dc972564408d9d0ec7f4a5f8)
+
+### Day 87,88: Sep 21,22, 2017
+
+**Today's Progress**: Binary search trees
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/a0d0df085ff200da148a6fcda7a82c4dda3af3b5)
+
+### Day 86: Sep 20, 2017
+
+**Today's Progress**: Game theory
+
+[Leetcode](https://github.com/venkateshmantha/Hackerrank/commit/124ded5c0b2f5b71b762a13578a9906b8a569c88)
+
+### Day 85: Sep 19, 2017
+
+**Today's Progress**: Recursions
+
+[Leetcode](https://github.com/venkateshmantha/GeeksforGeeks/commit/2372efe6bb9cf86115cd80f1474f0a070753d597)
+
+### Day 83,84: Sep 17,18, 2017
+
+**Today's Progress**: Sorting, searching and arrays
+
+[Leetcode](https://github.com/venkateshmantha/GeeksforGeeks/commit/c8f1b7fad46b3d021e8e893813200848fb8ab9cf)
+
+### Day 82: Sep 16, 2017
+
+**Today's Progress**: Few more on binary trees
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/8079809304ef141a225daf771335ce2eddbf8bd0)
+
+### Day 81: Sep 15, 2017
+
+**Today's Progress**: Edit distance and string manipulation
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/9a542f3771ce35bd9ea121d248f49b15e500836a)
+
+### Day 80: Sep 14, 2017
+
+**Today's Progress**: Divide & Conquer algorithms
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/e6d4b986cc66a545c6c9d2b3f020d406b5dda536)
+
+### Day 79: Sep 13, 2017
+
+**Today's Progress**: Maps
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/a426e0aa5db19a3ff536aa05c08b5db47dfa4d7a)
+
+### Day 78: Sep 12, 2017
+
+**Today's Progress**: Binary search algorithms
+
+### Day 77: Sep 11, 2017
+
+**Today's Progress**: More on string manipulation.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/c177f77ecda78c32097304b9fb0beb6c0fc530a2)
+
+### Day 76: Sep 10, 2017
+
+**Today's Progress**: Trees and recursion.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/8aca9a7e8e20103dd7605805a4f6c5d17b8f3200)
+
+### Day 75: Sep 9, 2017
+
+**Today's Progress**: Strings and sliding window problems.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/dfde32d4eacf338cc53ed7327a5d22ada685b4e2)
+
+### Day 74: Sep 8, 2017
+
+**Today's Progress**: Getting hands wet with Hadoop and MapReduce.
+
+### Day 73: Sep 7, 2017
+
+**Today's Progress**: Stacks, Queues and sorting.
+
+### Day 72: Sep 6, 2017
+
+**Today's Progress**: Matrix operations.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/6eda363a97b50c9c7c6d43637034840217e331f3)
+
+### Day 71: Sep 5, 2017
+
+**Today's Progress**: Revisited some old size projects.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/f785b38baee77e10638946cc4d7fcf9e866c5070)
+
+### Day 70: Sep 3, 2017
+
+**Today's Progress**: Binary trees.
+
+[GeeksforGeeks](https://github.com/venkateshmantha/GeeksforGeeks/commit/6cfab2c42b60cf15478f7ed40c78be9941cf7dc4)
+
+### Day 69: Sep 1, 2017
+
+**Today's Progress**: Math.
+
+[Hackerrank](https://github.com/venkateshmantha/Hackerrank/commit/1630c3d546d2ed57793b77c8c615fd2fe4d75c78)
+
+### Day 68: Aug 31, 2017
+
+**Today's Progress**: String manipulation.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/d3b78aa0877eb6422b3133a8668919f74925e01c)
+
+### Day 67: Aug 30, 2017
+
+**Today's Progress**: Dynamic programming.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/549d41ab1e38c439e446392a0f0ccdc2ff90783a)
+
+### Day 66: Aug 29, 2017
+
+**Today's Progress**: Took part in Microsoft's coding challenge msft3c.com
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/6443223a61b9dd22b543385f42ebdcf5acb730da)
+
+### Day 65: Aug 28, 2017
+
+**Today's Progress**: Math.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/8deb63da85bfcafb1a5926ad89b9eefde4e3ce0c)
+
+### Day 64: Aug 26, 2017
+
+**Today's Progress**: Linked lists.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/7498d3c4b94021ede809a0cb6ff36dfc75182608)
+
+### Day 63: Aug 25, 2017
+
+**Today's Progress**: Game theory.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/403dcaeab3b60df3259f9285b761e13bfc063c2a)
+
+### Day 62: Aug 24, 2017
+
+**Today's Progress**: Game theory.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/12c712dbf31e9240b47453996452b782e181a27b)
+
+### Day 61: Aug 23, 2017
+
+**Today's Progress**: 2D Arrays.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/a5b537a15e1f11663e563648ae8a5d126a1e4a10)
+
+### Day 60: Aug 22, 2017
+
+**Today's Progress**: Dictionaries.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/583634e1956f25fae516d2d91723271edf5de694)
+
+### Day 59: Aug 21, 2017
+
+**Today's Progress**: Binary search and arrays.
+
+### Day 58: Aug 20, 2017
+
+**Today's Progress**: Hashtables.
+
+[Leetcode](https://github.com/venkateshmantha/Leetcode/commit/2484cf99b18e31df68e432e294683b6d95469ed7)
+
 ### Day 57: Aug 19, 2017
 
 **Today's Progress**: Depth first and Stacks.
